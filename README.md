@@ -33,7 +33,7 @@ The tool compares figures from an older financial statement (current period) wit
 
 All files must be located in the **same folder** for the tool to work correctly.
 
-```
+---
 
 #project-folder/
 #│
@@ -43,7 +43,7 @@ All files must be located in the **same folder** for the tool to work correctly.
 #├── README.md          # Documentation
 #└── LICENSE            # License file
 
-````
+---
 
 ---
 
