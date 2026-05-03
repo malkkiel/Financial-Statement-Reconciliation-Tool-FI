@@ -57,7 +57,7 @@ All files must be located in the **same folder** for the tool to work correctly.
 python -m venv .venv
 ````
 
-3. Activate the environment:
+Activate the environment:
 
 **Windows**
 
@@ -71,7 +71,7 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-4. Install dependencies:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
