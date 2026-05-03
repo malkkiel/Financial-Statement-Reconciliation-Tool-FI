@@ -149,7 +149,3 @@ Elina Malkki
 
 1.6.0
 
-```
-
-Jos haluat, voin vielä tehdä tästä **GitHub-näyttävämmän version (badgeilla, kuvilla, demo-GIF:llä)** tai lyhyemmän version CV/projektisivulle 👍
-```
