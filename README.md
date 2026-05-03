@@ -35,13 +35,13 @@ All files must be located in the **same folder** for the tool to work correctly.
 
 ```
 
-project-folder/
-│
-├── FSRT.py            # Main application
-├── terms.xlsx         # Term dictionary (required)
-├── requirements.txt   # Python dependencies
-├── README.md          # Documentation
-└── LICENSE            # License file
+#project-folder/
+#│
+#├── FSRT.py            # Main application
+#├── terms.xlsx         # Term dictionary (required)
+#├── requirements.txt   # Python dependencies
+#├── README.md          # Documentation
+#└── LICENSE            # License file
 
 ````
 
