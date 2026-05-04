@@ -95,7 +95,7 @@ openpyxl==3.1.2
 Start the application with:
 
 ```bash
-streamlit run FSRT.py
+python -m streamlit run FSRT.py
 ```
 
 The Streamlit interface will open automatically in your browser.
